@@ -1,6 +1,6 @@
 {
   "realm": "demo",
-  "auth-server-url": "http://localhost:8080/auth/",
+  "auth-server-url": "https://keycloak-liberty-integration-poc.apps.cluster-fzgbp.fzgbp.sandbox1096.opentlc.com/auth/",
   "ssl-required": "external",
   "resource": "app",
   "public-client": true,
